@@ -17,7 +17,7 @@ apt install screen
 ```bash
 screen -S sonicbot
 ```
-### 2. Clone Repository
+### 2. clone Repository
 
 ```bash
 git clone https://github.com/dlzvy/SONIC-BOT.git
@@ -27,7 +27,7 @@ git clone https://github.com/dlzvy/SONIC-BOT.git
 cd SONIC-BOT
 ```
 
-### 3. Instal Dependency
+### 3. install Dependency
 
 ```bash
 npm i
