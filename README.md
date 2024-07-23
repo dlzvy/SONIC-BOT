@@ -2,8 +2,8 @@
 
 Sonic Auto Claim
 - Check in daily
-- tx Milestone trx 100, 
-- open Mistery box
+- Tx Milestone trx 100, 
+- Open Mistery box
 - Multi account
   
   
