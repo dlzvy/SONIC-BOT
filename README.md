@@ -30,9 +30,4 @@ npm start
 
 ```
 
-### 5. Run script
-
-```bash
-npm run start
-```
 
