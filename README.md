@@ -9,6 +9,19 @@ Sonic Auto Claim
   
 ## Steps
 
+install npm 
+```
+apt install npm
+```
+install node js
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+source ~/.bashrc
+nvm install 'lts/*'
+nvm use 'lts/*'
+```
+
 ### 1. install screnn
 
 ```bash
